@@ -1,0 +1,120 @@
+
+body{
+    margin:0;
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.skills{
+    margin-bottom: 140px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:60px auto;
+    text-align: left;
+    line-height:2;  
+    padding: 20px; 
+}
+h1{
+    position: relative;
+    margin:50px auto 0 ;
+    top: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem; 
+    color: #66bfbf; 
+}
+
+h2
+{
+ font-family: 'Montserrat', sans-serif;
+ color: #66bfbf; 
+ font-size: 2rem;
+ padding-bottom: 10px;
+ 
+}
+
+ .top-container h2{
+    font-weight: normal;
+}
+h3{
+ font-family: 'Montserrat', sans-serif;
+  color: #66bfbf; 
+}
+hr{
+     border:dotted #EAF6F6 6px;
+     border-bottom: none; 
+     width: 5% ;
+     margin: 80px auto;
+
+
+}
+
+.top-container{
+background-color:#EAF6F6;
+padding: 60px;
+height: 100%;
+}
+
+
+ .pro{
+     text-decoration: underline;
+}
+
+.bottom-cloud{ 
+ position: absolute;
+   left: 100px;
+   bottom: 60px;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+   }
+  
+   .profile{
+       height: auto;
+       width: auto;
+       padding: 30px;
+       
+   }
+
+   .profile img {
+    width: 300px;
+     border-radius: 100%; 
+   }
+
+   .profile h2{
+    font-weight: 700;
+    text-align: center;
+}
+
+    .cricket{
+        float: right;
+        width: 40%;
+        margin-right: 20px;
+
+    }
+    
+    .website-design{
+        float: left;
+        width: 40%;
+        margin-right: 30px;   
+    }
+
+    .code-contact-me{
+        color: #EAF6F6;
+        background-color: #66BFBF;
+        width: 150px;
+        margin: 30px auto 20px;
+    }
+    .bottom-container{
+        background-color: #66BFBF;
+        margin-top: 40px;
+        padding: 30px;
+        line-height: 2;
+    }
+    .bottom-container p{color: #EAF6F6;
+
+    }
+
